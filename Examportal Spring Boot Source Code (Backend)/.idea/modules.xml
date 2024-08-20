@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Examportal Spring Boot Source Code (Backend).iml" filepath="$PROJECT_DIR$/.idea/Examportal Spring Boot Source Code (Backend).iml" />
+      <module fileurl="file://$PROJECT_DIR$/examserver/examserver.iml" filepath="$PROJECT_DIR$/examserver/examserver.iml" />
+    </modules>
+  </component>
+</project>
